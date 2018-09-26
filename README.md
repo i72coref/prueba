@@ -11,6 +11,3 @@ _cursiva_
 * asdf
 * asdfsdeee
 
-  eeeee
-  asdf
-  uuusd
