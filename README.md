@@ -15,4 +15,14 @@ _cursiva_
 ## Encabezado 2
 ### Encabezado 3
 
-> Soy Andreu Buenafuente. Andrés Kardena
+> Cita. cita
+
+ `git init`
+
+~~~
+asdfsdf
+asdfddd
+eeeeee
+~~~
+
+![Andreu_Buenafuente](https://pbs.twimg.com/profile_images/987887809045368832/HIhrq10Q_400x400.jpg)
